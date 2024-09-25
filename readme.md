@@ -1,1 +1,2 @@
-This is an advanced nuking system usable in replit and in python too
+This is easy and powerful nuking discord system.
+Good luck
